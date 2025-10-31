@@ -3,7 +3,6 @@ click==8.3.0
 colorama==0.4.6
 dj-database-url==1.0.0
 Django==3.2.21
-python-3.11.9
 gunicorn==23.0.0
 h11==0.16.0
 packaging==25.0
